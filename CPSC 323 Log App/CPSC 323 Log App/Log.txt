@@ -1,0 +1,2 @@
+Feb 16 2018|19:16:04|30|c:\users\wellson\documents\visual studio 2015\projects\cpsc 323 log app\cpsc 323 log app\source.cpp|main|Domain error
+

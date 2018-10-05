@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (CPSC 240 Assignment 3.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Main.cpp
+  CPSC 240 Assignment 3.vcxproj -> c:\users\wellson\documents\visual studio 2015\Projects\CPSC 240 Assignment 3\Debug\CPSC 240 Assignment 3 Problem 1.exe

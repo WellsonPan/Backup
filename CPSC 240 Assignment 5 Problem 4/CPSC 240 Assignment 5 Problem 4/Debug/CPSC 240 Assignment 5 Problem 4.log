@@ -1,0 +1,3 @@
+﻿  Problem4.cpp
+c:\users\wellson\documents\visual studio 2015\projects\cpsc 240 assignment 5 problem 4\cpsc 240 assignment 5 problem 4\problem4.cpp(10): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CPSC 240 Assignment 5 Problem 4.vcxproj -> c:\users\wellson\documents\visual studio 2015\Projects\CPSC 240 Assignment 5 Problem 4\Debug\CPSC 240 Assignment 5 Problem 4.exe

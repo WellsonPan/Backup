@@ -1,0 +1,7 @@
+﻿  Problem3.cpp
+c:\users\wellson\documents\visual studio 2015\projects\cpsc 323 assignment 2 problem 3\cpsc 323 assignment 2 problem 3\problem3.cpp(26): warning C4018: '<': signed/unsigned mismatch
+c:\users\wellson\documents\visual studio 2015\projects\cpsc 323 assignment 2 problem 3\cpsc 323 assignment 2 problem 3\problem3.cpp(53): warning C4018: '<': signed/unsigned mismatch
+c:\users\wellson\documents\visual studio 2015\projects\cpsc 323 assignment 2 problem 3\cpsc 323 assignment 2 problem 3\problem3.cpp(89): warning C4018: '<': signed/unsigned mismatch
+c:\users\wellson\documents\visual studio 2015\projects\cpsc 323 assignment 2 problem 3\cpsc 323 assignment 2 problem 3\problem3.cpp(108): warning C4018: '<': signed/unsigned mismatch
+c:\users\wellson\documents\visual studio 2015\projects\cpsc 323 assignment 2 problem 3\cpsc 323 assignment 2 problem 3\problem3.cpp(176): warning C4018: '<': signed/unsigned mismatch
+  CPSC 323 assignment 2 problem 3.vcxproj -> c:\users\wellson\documents\visual studio 2015\Projects\CPSC 323 assignment 2 problem 3\Debug\CPSC 323 assignment 2 problem 3.exe

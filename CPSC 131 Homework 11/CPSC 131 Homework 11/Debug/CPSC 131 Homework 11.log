@@ -1,0 +1,30 @@
+﻿  Main.cpp
+c:\users\wellson\documents\visual studio 2015\projects\cpsc 131 homework 11\cpsc 131 homework 11\searchtree.h(178): error C2955: 'SearchTree': use of class template requires template argument list
+  c:\users\wellson\documents\visual studio 2015\projects\cpsc 131 homework 11\cpsc 131 homework 11\searchtree.h(25): note: see declaration of 'SearchTree'
+c:\users\wellson\documents\visual studio 2015\projects\cpsc 131 homework 11\cpsc 131 homework 11\searchtree.h(190): error C2244: 'SearchTree::highestKey': unable to match function definition to an existing declaration
+  c:\users\wellson\documents\visual studio 2015\projects\cpsc 131 homework 11\cpsc 131 homework 11\searchtree.h(178): note: see declaration of 'SearchTree::highestKey'
+  c:\users\wellson\documents\visual studio 2015\projects\cpsc 131 homework 11\cpsc 131 homework 11\searchtree.h(190): note: definition
+  c:\users\wellson\documents\visual studio 2015\projects\cpsc 131 homework 11\cpsc 131 homework 11\searchtree.h(190): note: 'Position<E> SearchTree::highestKey(const Position<E> &) const'
+  c:\users\wellson\documents\visual studio 2015\projects\cpsc 131 homework 11\cpsc 131 homework 11\searchtree.h(190): note: existing declarations
+  c:\users\wellson\documents\visual studio 2015\projects\cpsc 131 homework 11\cpsc 131 homework 11\searchtree.h(190): note: 'Position<E> SearchTree<E>::highestKey(const Position<E> &) const'
+c:\users\wellson\documents\visual studio 2015\projects\cpsc 131 homework 11\cpsc 131 homework 11\searchtree.h(27): error C2825: 'E': must be a class or namespace when followed by '::'
+  c:\users\wellson\documents\visual studio 2015\projects\cpsc 131 homework 11\cpsc 131 homework 11\main.cpp(28): note: see reference to class template instantiation 'SearchTree<int>' being compiled
+c:\users\wellson\documents\visual studio 2015\projects\cpsc 131 homework 11\cpsc 131 homework 11\searchtree.h(27): error C2510: 'E': left of '::' must be a class/struct/union
+c:\users\wellson\documents\visual studio 2015\projects\cpsc 131 homework 11\cpsc 131 homework 11\searchtree.h(27): error C3646: 'K': unknown override specifier
+c:\users\wellson\documents\visual studio 2015\projects\cpsc 131 homework 11\cpsc 131 homework 11\searchtree.h(27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\wellson\documents\visual studio 2015\projects\cpsc 131 homework 11\cpsc 131 homework 11\searchtree.h(28): error C2825: 'E': must be a class or namespace when followed by '::'
+c:\users\wellson\documents\visual studio 2015\projects\cpsc 131 homework 11\cpsc 131 homework 11\searchtree.h(28): error C2510: 'E': left of '::' must be a class/struct/union
+c:\users\wellson\documents\visual studio 2015\projects\cpsc 131 homework 11\cpsc 131 homework 11\searchtree.h(28): error C3646: 'V': unknown override specifier
+c:\users\wellson\documents\visual studio 2015\projects\cpsc 131 homework 11\cpsc 131 homework 11\searchtree.h(28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\wellson\documents\visual studio 2015\projects\cpsc 131 homework 11\cpsc 131 homework 11\searchtree.h(34): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\wellson\documents\visual studio 2015\projects\cpsc 131 homework 11\cpsc 131 homework 11\searchtree.h(34): error C2143: syntax error: missing ',' before '&'
+c:\users\wellson\documents\visual studio 2015\projects\cpsc 131 homework 11\cpsc 131 homework 11\searchtree.h(35): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\wellson\documents\visual studio 2015\projects\cpsc 131 homework 11\cpsc 131 homework 11\searchtree.h(35): error C2143: syntax error: missing ',' before '&'
+c:\users\wellson\documents\visual studio 2015\projects\cpsc 131 homework 11\cpsc 131 homework 11\searchtree.h(36): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\wellson\documents\visual studio 2015\projects\cpsc 131 homework 11\cpsc 131 homework 11\searchtree.h(36): error C2143: syntax error: missing ',' before '&'
+c:\users\wellson\documents\visual studio 2015\projects\cpsc 131 homework 11\cpsc 131 homework 11\searchtree.h(48): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\wellson\documents\visual studio 2015\projects\cpsc 131 homework 11\cpsc 131 homework 11\searchtree.h(48): error C2143: syntax error: missing ',' before '&'
+c:\users\wellson\documents\visual studio 2015\projects\cpsc 131 homework 11\cpsc 131 homework 11\searchtree.h(49): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\wellson\documents\visual studio 2015\projects\cpsc 131 homework 11\cpsc 131 homework 11\searchtree.h(49): error C2143: syntax error: missing ',' before '&'
+c:\users\wellson\documents\visual studio 2015\projects\cpsc 131 homework 11\cpsc 131 homework 11\main.cpp(29): error C2248: 'SearchTree<int>::root': cannot access protected member declared in class 'SearchTree<int>'
+  c:\users\wellson\documents\visual studio 2015\projects\cpsc 131 homework 11\cpsc 131 homework 11\searchtree.h(47): note: see declaration of 'SearchTree<int>::root'
